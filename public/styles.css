@@ -1,0 +1,28 @@
+/* header */
+h1 {color:pink;
+    font-weight:1000;}
+
+
+/*center*/
+body {font-family: tahoma;}
+
+p {
+  color:purple;
+}
+
+.special {
+  text-decoration: line-through;
+}
+
+#main {
+  font-size=30px;
+}
+
+input[type="password"] {
+  border: 5px pink solid;
+}
+
+h2, h3, h4 {
+  color: magenta;
+
+}
