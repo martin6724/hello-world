@@ -4,7 +4,8 @@ h1 {color:pink;
 
 
 /*center*/
-body {font-family: tahoma;}
+body {font-family: tahoma;
+background-color: purple;}
 
 p {
   color:purple;
